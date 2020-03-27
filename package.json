@@ -8,6 +8,8 @@
     "html": "^1.0.0",
     "pug": "^2.0.4"
   },
+  "acron":"5.7.4",
+  },
   "devDependencies": {
     "browser-sync": "^2.26.7",
     "nodemon": "^2.0.2"
